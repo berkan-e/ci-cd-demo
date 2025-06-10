@@ -1,0 +1,9 @@
+.color-box {
+  width: 300px;
+  height: 100px;
+  background-color: green; /* Ändere das zu rot für Demo */
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
