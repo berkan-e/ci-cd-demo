@@ -1,7 +1,7 @@
 .color-box {
   width: 300px;
   height: 100px;
-  background-color: blue (0, 128, 47); /* Ändere das zu rot für Demo */
+  background-color: rgb(0, 255, 81) (0, 128, 47); /* Ändere das zu rot für Demo */
   color: white;
   display: flex;
   align-items: center;
